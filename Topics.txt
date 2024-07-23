@@ -1,2 +1,5 @@
+Target --> 
+    35 - 40 Problems per Week
+
 Week 1 -> Matematical Problems / Array
-Week 2 -> Array / Strings
+Week 2 -> Array / Strings / Matrix`
