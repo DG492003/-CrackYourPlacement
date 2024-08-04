@@ -3,4 +3,4 @@ Target -->
 
 Week 1 -> Matematical Problems / Array
 Week 2 -> Array / Strings / Matrix / Sorting and Searching
-Week 3 -> Sorting and Searching / stacks and queues
+Week 3 -> Sorting and Searching / stacks and queues / Linked List
