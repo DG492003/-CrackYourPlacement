@@ -5,3 +5,4 @@ Week 2 -> Array / Strings / Matrix / Sorting and Searching
 Week 3 -> Sorting and Searching / stacks and queues / Linked List
 Week 4 -> Linked List / stacks and queues / Trees
 Week 5 -> Trees / Backtracking
+Week 6 -> Dynamic Programming
